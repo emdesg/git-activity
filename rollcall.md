@@ -34,7 +34,7 @@ Name, Email, and Website URL
     * Email: ikurekoe@kean.edu
     * Website: https://eve.kean.edu/~ikurekoe/TECH3500/index.html
      * Website: https://eve.kean.edu/~ikurekoe/TECH3500/01_foodee/index.html
-      * website:https://eve.kean.edu/~ikurekoe/TECH3500/udiaa/index.html
+    * website:https://eve.kean.edu/~ikurekoe/TECH3500/udiaa/index.html
 
  * Reynold Beaton
     * Email: beatonre@kean.edu
