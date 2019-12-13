@@ -32,7 +32,7 @@ Name, Email, and Website URL
    
 * Edem Ikurekong ....
     * Email: ikurekoe@kean.edu
-    * website: http://eve.kean.edu/~ikurekoe/TECH3500/fincbloodbank/home.html
+    * website: http://eve.kean.edu/~ikurekoe/TECH3500/fincbloodbank/fincbloodbank/home.html
     * Website: https://eve.kean.edu/~ikurekoe/TECH3500/index.html
      * Website: https://eve.kean.edu/~ikurekoe/TECH3500/01_foodee/index.html
     * website:https://eve.kean.edu/~ikurekoe/TECH3500/udiaa/index.html
